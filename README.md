@@ -1,16 +1,23 @@
-### Hi there 👋
+### Mohammad Dohadwala
+#### Full Stack Web Developer
 
-<!--
-**Gr8z/Gr8z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 22 year old developer living Dubai. I write in Javascript, HTML and CSS. I can talk to databases and make servers do stuff. Please feel free to check out my work and let's have ~~coffee~~ a video chat if you'd like to hear more.
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gr8z&show_icons=true&count_private=true&hide_title=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="dohad.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
+
+[website]: https://dohad.dev
+[whatsapp]: https://wa.me/971552328372
+[instagram]: https://www.instagram.com/mohammad.dohad
+[linkedin]: https://www.linkedin.com/in/mohammaddohad
+[stackoverflow]: https://stackoverflow.com/users/5008677
+[twitter]: https://twitter.com/mohammaddohad
+[discord]: https://discord.gg/fap7gWy
