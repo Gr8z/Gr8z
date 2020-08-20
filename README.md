@@ -22,8 +22,6 @@ I'm a 22 year old developer living Dubai. I write in Javascript, HTML and CSS. I
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Dubai
-
 💬 Programming Languages: 
 JavaScript               19 hrs 40 mins      █████████████████████░░░░   87.0% 
 JSON                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.8% 
