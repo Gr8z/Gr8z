@@ -3,7 +3,7 @@
 
 I'm a 22 year old developer living Dubai. I write in Javascript, HTML and CSS. I can talk to databases and make servers do stuff. Please feel free to check out my work and let's have ~~coffee~~ a video chat if you'd like to hear more.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gr8z&show_icons=true&count_private=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gr8z&show_icons=true&count_private=true&hide_title=true&hide_rank=true)
 
 [<img align="left" alt="dohad.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
