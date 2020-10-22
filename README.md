@@ -8,11 +8,11 @@ I'm a 22 year old developer living Dubai. I write in Javascript, HTML and CSS. I
 
 <!--START_SECTION:waka-->
 ```text
-Other        61 hrs 31 mins  ████████████████████▒░░░░   81.52 % 
-JavaScript   10 hrs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-XML          1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-C#           1 hr 19 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Dart         28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Other        63 hrs 27 mins  █████████████████████░░░░   83.82 % 
+JavaScript   8 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+XML          1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+C#           1 hr 29 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+JSON         23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 <!--END_SECTION:waka-->
 
