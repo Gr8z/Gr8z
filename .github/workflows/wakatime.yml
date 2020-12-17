@@ -8,10 +8,16 @@ on:
 
 jobs:
   update-readme:
-    name: Update this GR8z README
+    name: Update GR8z README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Daily stats update
+          SHOW_DAYS_OF_WEEK: false
+          SHOW_OS: false
+          SHOW_TIMEZONE: false
+          SHOW_EDITORS: false
+          SHOW_SHORT_INFO: false
+          SHOW_LOC_CHART: false
