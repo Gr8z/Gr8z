@@ -15,9 +15,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Daily stats update
-          SHOW_DAYS_OF_WEEK: false
-          SHOW_OS: false
-          SHOW_TIMEZONE: false
-          SHOW_EDITORS: false
-          SHOW_SHORT_INFO: false
-          SHOW_LOC_CHART: false
+          SHOW_DAYS_OF_WEEK: False
+          SHOW_OS: False
+          SHOW_TIMEZONE: False
+          SHOW_EDITORS: False
+          SHOW_SHORT_INFO: False
+          SHOW_LOC_CHART: False
