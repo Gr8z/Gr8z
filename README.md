@@ -7,13 +7,13 @@ I'm a 22 year old developer living Dubai. I write in Javascript, HTML and CSS. I
 ![GitHub Stats][stats]
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    226 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.77% 
-🌆 Daytime    649 commits    ████████████░░░░░░░░░░░░░   51.02% 
+🌞 Morning    228 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.92% 
+🌆 Daytime    647 commits    ████████████░░░░░░░░░░░░░   50.86% 
 🌃 Evening    345 commits    ██████░░░░░░░░░░░░░░░░░░░   27.12% 
 🌙 Night      52 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.09%
 
