@@ -2,7 +2,7 @@
 
 #### Full Stack Web Developer
 
-I'm a 22 year old developer living Dubai. I write in Javascript, HTML and CSS. I can talk to databases and make servers do stuff. Please feel free to check out my work and let's have ~~coffee~~ a video chat if you'd like to hear more.
+I'm a 23 year old developer living Dubai. I write in Javascript, HTML and CSS. I can talk to databases and make servers do stuff. Please feel free to check out my work and let's have ~~coffee~~ a video chat if you'd like to hear more.
 
 ![GitHub Stats][stats]
 
