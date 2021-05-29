@@ -24,7 +24,7 @@ canon-findmyprinter      1 hr 39 mins        ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-📊 **Blog Posts** 
+📕 **Blog Posts** 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
