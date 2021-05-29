@@ -11,6 +11,7 @@ jobs:
     name: Update GR8z README
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -26,5 +27,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: False
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dohad.dev/feed.xml"
-          gh_token: ${{ secrets.GH_TOKEN }}
+          feed_list: 'https://dohad.dev/feed.xml'
