@@ -26,6 +26,9 @@ canon-findmyprinter      1 hr 39 mins        ░░░░░░░░░░░�
 
 📕 **Blog Posts** 
 <!-- BLOG-POST-LIST:START -->
+- [How do you write good code?](https://dohad.dev/blog/good-code)
+- [Working Remotely - 5 Useful Tools for Developers](https://dohad.dev/blog/remotework-tools)
+- [Tools I use](https://dohad.dev/blog/uses)
 <!-- BLOG-POST-LIST:END -->
 
 [<img align="left" alt="dohad.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
