@@ -24,4 +24,6 @@ jobs:
           SHOW_COMMIT: False
           SHOW_LANGUAGE: False
           SHOW_LANGUAGE_PER_REPO: False
-          
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dohad.dev/feed.xml"
