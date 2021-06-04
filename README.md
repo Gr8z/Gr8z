@@ -26,6 +26,7 @@ virtual-events           4 hrs 17 mins       ██░░░░░░░░░�
 
 📕 **Blog Posts** 
 <!-- BLOG-POST-LIST:START -->
+- [Developers with Imposter Syndrome](https://dohad.dev/blog/imposter-syndrome)
 - [How do you write good code?](https://dohad.dev/blog/good-code)
 - [Working Remotely - 5 Useful Tools for Developers](https://dohad.dev/blog/remotework-tools)
 - [Tools I use](https://dohad.dev/blog/uses)
