@@ -7,7 +7,7 @@ I'm a 23 year old developer living Dubai. I write in Javascript, HTML and CSS. I
 ![GitHub Stats][stats]
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 📊 **This Week I Spent My Time On** 
 
