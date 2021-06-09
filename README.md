@@ -22,6 +22,7 @@ virtual-events           4 hrs 17 mins       ██░░░░░░░░░�
 ```
 
 
+ Last Updated on 09/06/2021
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
