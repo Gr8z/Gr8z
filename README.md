@@ -25,11 +25,11 @@ portfolio                0 secs              ░░░░░░░░░░░�
 
 📕 **Blog Posts** 
 <!-- BLOG-POST-LIST:START -->
+- [Tactical vs Strategic Development](https://dohad.dev/blog/tactical-vs-strategic)
 - [What is Docker and why do developers use it?](https://dohad.dev/blog/what-is-docker)
 - [Which programming language to choose in 2021?](https://dohad.dev/blog/languages-2021)
 - [Is Programming right for me?](https://dohad.dev/blog/programming-me)
 - [Developers with Imposter Syndrome](https://dohad.dev/blog/imposter-syndrome)
-- [How do you write good code?](https://dohad.dev/blog/good-code)
 <!-- BLOG-POST-LIST:END -->
 
 [<img align="left" alt="dohad.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
