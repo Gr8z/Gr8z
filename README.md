@@ -7,21 +7,20 @@ I'm a 23 year old developer living Dubai. I write in Javascript, HTML and CSS. I
 ![GitHub Stats][stats]
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-live                     2 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.95% 
-virtual-events           1 hr 55 mins        ██████████░░░░░░░░░░░░░░░   41.89% 
-samena-accelerator       21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
+live                     2 hrs 9 mins        ████████████░░░░░░░░░░░░░   51.39% 
+virtual-events           1 hr 55 mins        ███████████░░░░░░░░░░░░░░   45.96% 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66%
 
 ```
 
 
- Last Updated on 27/10/2021
+ Last Updated on 28/10/2021
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
