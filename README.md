@@ -7,22 +7,22 @@ I'm a 23 year old developer living Dubai. I write in Javascript, HTML and CSS. I
 ![GitHub Stats][stats]
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-pf-website               16 hrs 11 mins      ██████████████████░░░░░░░   73.08% 
-live                     5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.97% 
-virtual-events           28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
-nextjs-strapi-blog       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72% 
-pf-web-app               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+pf-website               15 hrs 30 mins      ███████████████████░░░░░░   77.37% 
+live                     2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
+pf-web-app               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.9% 
+virtual-events           44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.71% 
+nextjs-strapi-blog       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
 ```
 
 
- Last Updated on 23/11/2021
+ Last Updated on 24/11/2021
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
