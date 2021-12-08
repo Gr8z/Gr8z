@@ -7,19 +7,18 @@ I'm a 23 year old developer living Dubai. I write in Javascript, HTML and CSS. I
 ![GitHub Stats][stats]
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-pf-website               12 hrs 45 mins      ████████████████████████░   98.97% 
-pf-go-b2c                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
+pf-website               8 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 07/12/2021
+ Last Updated on 08/12/2021
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
