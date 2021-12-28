@@ -6,6 +6,8 @@ I'm a 23 year old developer living Dubai. I write in Javascript, HTML and CSS. I
 
 ![GitHub Stats][stats]
 
+![](https://komarev.com/ghpvc/?username=Gr8z)
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
