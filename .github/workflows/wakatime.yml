@@ -24,3 +24,4 @@ jobs:
           SHOW_COMMIT: False
           SHOW_LANGUAGE: False
           SHOW_LANGUAGE_PER_REPO: False
+          SHOW_PROFILE_VIEWS: False
