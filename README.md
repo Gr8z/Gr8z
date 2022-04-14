@@ -13,13 +13,13 @@ I'm a 23 year old developer living Dubai. I write in Javascript, HTML and CSS. I
 
 ```text
 🐱‍💻 Projects: 
-Unknown Project          7 hrs 45 mins       ████████████████████░░░░░   80.92% 
-pf-website               1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.08%
+Unknown Project          7 hrs 15 mins       ████████████████████░░░░░   82.12% 
+pf-website               1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.88%
 
 ```
 
 
- Last Updated on 13/04/2022 21:03:27 UTC
+ Last Updated on 14/04/2022 21:03:26 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
