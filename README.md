@@ -25,11 +25,11 @@ Unknown Project          8 hrs 33 mins       ███████████�
 
 📕 **Blog Posts** 
 <!-- BLOG-POST-LIST:START -->
+- [Tools I use](https://dohad.dev/blog/uses)
 - [Optimize your React App Performance with Memoization](https://dohad.dev/blog/memoization-react)
 - [Creating Unhackable passwords](https://dohad.dev/blog/strong-passwords)
 - [Tactical vs Strategic Development](https://dohad.dev/blog/tactical-vs-strategic)
 - [What is Docker and why do developers use it?](https://dohad.dev/blog/what-is-docker)
-- [Which programming language to choose in 2021?](https://dohad.dev/blog/languages-2021)
 <!-- BLOG-POST-LIST:END -->
 
 [<img align="left" alt="dohad.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
