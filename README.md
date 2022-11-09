@@ -11,16 +11,8 @@ I'm a 23 year old developer living Dubai. I write in Javascript, HTML and CSS. I
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C049%20hrs%2037%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🐱‍💻 Projects: 
-portfolio                6 mins              █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 08/11/2022 21:03:12 UTC
+ Last Updated on 09/11/2022 21:03:26 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
