@@ -9,20 +9,20 @@ I'm a 23 year old developer living Dubai. I write in Javascript, HTML and CSS. I
 ![](https://komarev.com/ghpvc/?username=Gr8z)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C093%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C096%20hrs%207%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-cafu-business-client     3 hrs 33 mins       █████████████████████░░░░   84.62% 
-emirates-interview       25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.01% 
-early-warning-dashboard-c13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.37%
+cafu-business-client     4 hrs 56 mins       █████████████████████░░░░   86.07% 
+emirates-interview       34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.99% 
+early-warning-dashboard-c13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.93%
 
 ```
 
 
- Last Updated on 24/01/2023 21:03:28 UTC
+ Last Updated on 25/01/2023 21:03:09 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
