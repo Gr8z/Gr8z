@@ -15,13 +15,13 @@ I'm a 23 year old developer living Dubai. I write in Javascript, HTML and CSS. I
 
 ```text
 🐱‍💻 Projects: 
-cafu-business-client     9 hrs 22 mins       ████████████████████████░   98.72 % 
-Email Templates          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+cafu-business-client     4 hrs 13 mins       ████████████████████████░   97.21 % 
+Email Templates          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 ```
 
 
- Last Updated on 20/02/2023 21:02:00 UTC
+ Last Updated on 21/02/2023 21:02:13 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
