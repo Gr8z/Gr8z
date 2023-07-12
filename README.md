@@ -15,11 +15,11 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 
 ```text
 🐱‍💻 Projects: 
-cafu-business-client     5 hrs 44 mins       █████████████████████████   100.00 % 
+cafu-business-client     4 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/07/2023 21:02:07 UTC
+ Last Updated on 12/07/2023 21:01:52 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
