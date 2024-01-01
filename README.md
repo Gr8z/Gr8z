@@ -15,13 +15,13 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 
 ```text
 🐱‍💻 Projects: 
-propoganda               13 hrs 32 mins      █████████████████████░░░░   85.83 % 
-cafu-business-client     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-early-warning-dashboard-c39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+propoganda               11 hrs 22 mins      █████████████████████░░░░   83.59 % 
+cafu-business-client     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+early-warning-dashboard-c39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
 
 
- Last Updated on 31/12/2023 21:01:48 UTC
+ Last Updated on 01/01/2024 21:01:42 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
