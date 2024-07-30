@@ -9,21 +9,21 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 ![](https://komarev.com/ghpvc/?username=Gr8z)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C728%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C728%20hrs%2052%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-front-revenue-logic      2 hrs 37 mins       ██████████████░░░░░░░░░░░   56.38 % 
-msal-node-backend        36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-portfolio                27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-cafu-business-client     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-cafu-fe-shared-library   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+portfolio                42 mins             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+front-revenue-logic      41 mins             ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+cafu-business-client     27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+cafu-fe-shared-library   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+msal-node-backend        18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
 ```
 
 
- Last Updated on 29/07/2024 21:01:50 UTC
+ Last Updated on 30/07/2024 21:01:43 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
