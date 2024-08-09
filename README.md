@@ -9,21 +9,21 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 ![](https://komarev.com/ghpvc/?username=Gr8z)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C737%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C738%20hrs%2018%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-propoganda               2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.45 % 
-b2b-finance-dashboard    1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   32.68 % 
-early-warning-dashboard-c1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-front-revenue-logic      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-portfolio                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+b2b-finance-dashboard    1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   32.86 % 
+propoganda               1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+early-warning-dashboard-c54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+cafu-business-client     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+collabmd-api             27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 ```
 
 
- Last Updated on 08/08/2024 21:01:48 UTC
+ Last Updated on 09/08/2024 21:01:48 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
