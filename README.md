@@ -15,13 +15,11 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 
 ```text
 🐱‍💻 Projects: 
-b2b-finance-dashboard    2 hrs 3 mins        ██████████████░░░░░░░░░░░   57.27 % 
-collabmd-api             1 hr 31 mins        ███████████░░░░░░░░░░░░░░   42.53 % 
-web-internal-dashboard-no0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+b2b-finance-dashboard    21 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/11/2024 21:01:55 UTC
+ Last Updated on 08/11/2024 21:02:02 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
