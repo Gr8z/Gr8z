@@ -15,11 +15,11 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 
 ```text
 🐱‍💻 Projects: 
-b2b-finance-dashboard    21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/11/2024 21:02:02 UTC
+ Last Updated on 09/11/2024 21:02:04 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
