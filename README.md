@@ -15,11 +15,11 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 
 ```text
 🐱‍💻 Projects: 
-socal-directory          11 hrs 2 mins       █████████████████████████   100.00 % 
+socal-directory          9 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/12/2024 21:02:02 UTC
+ Last Updated on 01/01/2025 21:02:03 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
