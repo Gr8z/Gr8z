@@ -15,12 +15,12 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 
 ```text
 🐱‍💻 Projects: 
-cosmo-ai-sheets          3 hrs 36 mins       ████████████████████████░   95.94 % 
-dz-frontend-task         9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+cosmo-ai-sheets          3 hrs 36 mins       ████████████████████████░   97.54 % 
+dz-frontend-task         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 
 
- Last Updated on 20/02/2025 21:02:12 UTC
+ Last Updated on 21/02/2025 21:01:46 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
