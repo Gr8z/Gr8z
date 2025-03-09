@@ -9,21 +9,21 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 ![](https://komarev.com/ghpvc/?username=Gr8z)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C961%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C962%20hrs%2011%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-dc-frontend-task         3 hrs 35 mins       ██████████████░░░░░░░░░░░   57.48 % 
-socal-directory          1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-interview-coder          36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-interview-coder-webapp   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-GitHub                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+dc-frontend-task         3 hrs 35 mins       █████████████░░░░░░░░░░░░   52.68 % 
+socal-directory          1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+interview-coder          36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+front-revenue-logic      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+interview-coder-webapp   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 ```
 
 
- Last Updated on 08/03/2025 21:01:41 UTC
+ Last Updated on 09/03/2025 21:01:58 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
