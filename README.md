@@ -15,13 +15,12 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 
 ```text
 🐱‍💻 Projects: 
-portfolio                34 mins             ████████████░░░░░░░░░░░░░   48.50 % 
-desertcart               30 mins             ███████████░░░░░░░░░░░░░░   42.94 % 
-interview-coder-withoupay6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+portfolio                13 mins             █████████████████░░░░░░░░   69.00 % 
+interview-coder-withoupay6 mins              ████████░░░░░░░░░░░░░░░░░   31.00 % 
 ```
 
 
- Last Updated on 28/11/2025 21:01:51 UTC
+ Last Updated on 29/11/2025 21:01:59 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
