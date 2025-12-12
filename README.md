@@ -15,13 +15,11 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 
 ```text
 🐱‍💻 Projects: 
-ai-flow-tester           5 hrs 46 mins       ███████████████████████░░   92.69 % 
-portfolio                26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+ai-flow-tester           2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/12/2025 21:02:24 UTC
+ Last Updated on 12/12/2025 21:02:11 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
