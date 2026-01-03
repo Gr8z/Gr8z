@@ -10,7 +10,7 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 
 <!--START_SECTION:waka-->
 
- Last Updated on 02/01/2026 21:01:55 UTC
+ Last Updated on 03/01/2026 21:02:00 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
