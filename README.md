@@ -15,13 +15,12 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 
 ```text
 🐱‍💻 Projects: 
-cercli-interview         4 hrs 10 mins       █████████████████████░░░░   82.78 % 
-bayora-admin             33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-socal-directory          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+cercli-interview         4 hrs 10 mins       ███████████████████████░░   93.17 % 
+socal-directory          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 ```
 
 
- Last Updated on 21/01/2026 21:06:07 UTC
+ Last Updated on 22/01/2026 21:03:33 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
