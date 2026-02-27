@@ -9,21 +9,21 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 ![](https://komarev.com/ghpvc/?username=Gr8z)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C688%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C689%20hrs%2052%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🐱‍💻 Projects: 
-bayora-os                2 hrs 7 mins        ████████████████████░░░░░   80.14 % 
-bayora-admin             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-personal-os              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-gmsgoods                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-claude-ads               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+bayora-os                1 hr 31 mins        ████████████░░░░░░░░░░░░░   46.55 % 
+prypco-interview         1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   39.43 % 
+bayora-admin             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+personal-os              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+claude-ads               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 
 
- Last Updated on 26/02/2026 21:08:50 UTC
+ Last Updated on 27/02/2026 21:05:08 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
