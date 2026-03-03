@@ -15,15 +15,14 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 
 ```text
 🐱‍💻 Projects: 
-prypco-interview         1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   40.16 % 
-bayora-admin             1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   35.85 % 
-bayora-os                31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-personal-os              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-claude-ads               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+prypco-interview         1 hr 17 mins        █████████████░░░░░░░░░░░░   51.23 % 
+bayora-admin             57 mins             █████████░░░░░░░░░░░░░░░░   37.63 % 
+bayora-os                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+personal-os              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 
- Last Updated on 02/03/2026 21:07:59 UTC
+ Last Updated on 03/03/2026 21:06:43 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
