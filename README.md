@@ -12,7 +12,7 @@ I'm a full stack web developer living Dubai. I write in Javascript, HTML and CSS
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C691%20hrs%2038%20mins-blue?style=flat)
 
 
- Last Updated on 02/06/2026 21:56:31 UTC
+ Last Updated on 03/06/2026 21:56:59 UTC
 <!--END_SECTION:waka-->
 
 📕 **Blog Posts** 
